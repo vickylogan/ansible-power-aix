@@ -1,6 +1,6 @@
 --- 
 - name: "Create groups on AIX"
-  hosts: Power_VIO
+  hosts:  Sean Test_AIX
   collections:
   - ibm.power_aix
   tasks:
